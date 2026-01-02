@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/My Requirements/CP/CSES",
-      "program": "d:/My Requirements/CP/CSES/build/Debug/outDebug",
+      "cwd": "d:/My Requirements/CP/CSES/SortAndSearch",
+      "program": "d:/My Requirements/CP/CSES/SortAndSearch/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
